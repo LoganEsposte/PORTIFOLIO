@@ -1,0 +1,135 @@
+/*******************************
+
+	  cores da pagina
+
+	#222831  Cinza Escuro
+	#393e46  Cinza Claro
+	#fd7014  Laranja
+	#eeeeee  Branco 
+
+**********************************/
+
+
+/********************************
+Zerando predefinições do html
+********************************/
+
+body {
+    padding: 0px;
+	margin: 0px;
+	font-size: 1.2rem;
+	font-family: arial;
+	border: 0px;
+}
+
+
+/********************************
+Cabeçalho
+********************************/
+
+.cabeçalho {
+	display: flex;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+header {
+	background-image: url("imagens/computação.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.left {
+	width: 30vw;
+	height: 20vh;
+
+}
+
+.right {
+	width: 70vw;
+	height: 20vh;
+	text-align: center;
+}
+
+.name {
+	color: #eee;
+
+}
+
+.foto {
+	width: 10vw;
+	height: 10vw;
+	border-radius: 50%;
+}
+/********************************
+Conteudo
+********************************/
+
+.alinhamento {
+	display: flex;
+}
+
+
+/********************************
+Navegação
+********************************/
+
+nav {
+    background-color: #222831;
+}
+
+nav ul {
+    list-style: none;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #eee;
+}
+
+nav ul li a:hover {
+	color: #fd7014;
+}
+
+/********************************
+Aside
+********************************/
+
+aside {
+    background-color: #fff;
+	text-align: center;
+	width: 30vw;
+	height: 80vh;
+}
+
+/********************************
+Seção principal
+********************************/
+
+section {
+    background-color: #ddd;
+	text-align: center;
+	width: 70vw;
+	height: 80vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
