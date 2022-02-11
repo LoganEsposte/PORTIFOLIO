@@ -1,9 +1,12 @@
-#PORTIFOLIO
+##PORTIFOLIO
 
-##OBJETIVO
+#OBJETIVO
 ----
 
 *Apressntar Conenhecimentos
+
 *Apresentar Contatos
+
 *Apresentar Projetos Iniciados e Concluídos
+
 *Apresentar Próximos Projetos
