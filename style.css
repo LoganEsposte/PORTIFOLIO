@@ -22,6 +22,13 @@ body {
 	border: 0px;
 }
 
+/********************************
+Geral
+********************************/
+.titulosessao {
+	color:#fd7014;
+
+}
 
 /********************************
 Cabeçalho
@@ -58,9 +65,10 @@ header {
 }
 
 .foto {
-	width: 10vw;
-	height: 10vw;
+	width: 12vw;
+	height: 12vw;
 	border-radius: 50%;
+	margin-top: 30px;
 }
 /********************************
 Conteudo
@@ -110,6 +118,20 @@ aside {
 	height: 80vh;
 }
 
+span {
+	font-weight: bold;
+}
+
+aside p {
+	margin-left: 4vw;
+	text-align: left;
+}
+
+aside p a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
 /********************************
 Seção principal
 ********************************/
