@@ -154,10 +154,23 @@ section {
 	padding-left: 10px;
 }
 
+.destaque {
+/*	text-align: left;*/
+	padding-left: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
 
+.ladoALado {
+	display: flex;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	justify-content: space-around;
+}
 
-
-
+article  div ul li {
+	list-style-type: none;
+}
 
 
 
