@@ -168,10 +168,13 @@ section {
 	justify-content: space-around;
 }
 
-article  div ul li {
+article div ul li {
 	list-style-type: none;
 }
 
+.none {
+	list-style-type: none;
+}
 
 
 
